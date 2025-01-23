@@ -104,20 +104,6 @@ python discord_bot/bot.py
 - Provides detailed console logging for tracking operations
 - Handles errors gracefully with try-catch blocks
 
-## Project Structure
-```
-discord-member-tracker/
-├── discord_bot/
-│   ├── __init__.py
-│   ├── bot.py              # Main bot logic
-│   ├── airtable_handler.py # Airtable integration
-│   └── sheets_handler.py   # Google Sheets integration
-├── .env                    # Environment variables
-├── requirements.txt        # Python dependencies
-├── README.md              # This file
-└── .gitignore             # Git ignore rules
-```
-
 ## Contributing
 
 1. Fork the repository
