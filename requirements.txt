@@ -1,0 +1,7 @@
+discord.py>=2.0.0
+python-dotenv>=0.19.0
+airtable-python-wrapper>=0.15.0
+google-api-python-client>=2.0.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=0.4.6
+aiohttp>=3.8.0 
