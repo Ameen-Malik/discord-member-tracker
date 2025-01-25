@@ -138,6 +138,7 @@ If you encounter any issues or have questions, please:
 1. Check the existing issues
 2. Create a new issue with a detailed description
 3. Include any relevant error messages or screenshots
+4. For any other queries you can drop a mail at: ameenmalik167@gmail.com
 
 ## Acknowledgments
 
